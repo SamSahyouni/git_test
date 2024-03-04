@@ -1,3 +1,6 @@
 I am making changes that should
 show me that both changes will be staged 
 then committed.
+
+And I wrote this.
+123
